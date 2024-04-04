@@ -16,7 +16,7 @@ Replace the classifier layers to fit the requirements.
 
 # Results 
 
-<video src="https://user-images.githubusercontent.com/duong1121/video.mp4"></video>
+<video src="https://user-images.githubusercontent.com/duong1121/Face_Recognize/video/video.mp4"></video>
 
 
 
