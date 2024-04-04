@@ -16,9 +16,13 @@ Replace the classifier layers to fit the requirements.
 
 # Results 
 
-https://github.com/duong1121/Face_Recognize/assets/75771867/a29a0707-ba44-4e73-9b26-2ab44b1395bc
+<p align="center">
+  <video src="video/video.mp4" width="500px"></video>
+</p>
 
-https://github.com/duong1121/Face_Recognize/assets/75771867/8fb24dfc-00ab-4b76-aa8e-5c35f72b10b1
+<video src="video/video.mp4" width="320" height="240" controls></video>
+
+![non working video](images/video.mp4)
 
 
 
