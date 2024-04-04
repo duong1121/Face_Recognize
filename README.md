@@ -16,7 +16,8 @@ Replace the classifier layers to fit the requirements.
 
 # Results 
 
-![Watch the video](https://drive.google.com/file/d/12yV0P5Ehh2N3eAY5SFE1c8Ah_AGPofUP/view?usp=drive_link)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://drive.google.com/file/d/12yV0P5Ehh2N3eAY5SFE1c8Ah_AGPofUP/view?usp=drive_link))
+
 
 
 
