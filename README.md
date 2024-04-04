@@ -16,14 +16,8 @@ Replace the classifier layers to fit the requirements.
 
 # Results 
 
-<p align="center">
-  <video src="video/video.mp4" width="500px"></video>
-</p>
 
-<video src="video/video.mp4" width="320" height="240" controls></video>
-
-![non working video](images/video.mp4)
-
+![ezgif-4-d482e5c7ff](https://github.com/duong1121/Face_Recognize/assets/75771867/fc5d4bd8-028b-4287-89e8-65928c0a22db)
 
 
 
