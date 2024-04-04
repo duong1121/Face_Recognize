@@ -16,10 +16,11 @@ Replace the classifier layers to fit the requirements.
 
 # Results 
 
+![image](https://github.com/duong1121/Face_Recognize/assets/75771867/c439192f-9031-4b88-bccd-cf723f5ce583)
 
 ![ezgif-4-d482e5c7ff](https://github.com/duong1121/Face_Recognize/assets/75771867/fc5d4bd8-028b-4287-89e8-65928c0a22db)
 
-
+![ezgif-4-d482e5c7ff](https://github.com/duong1121/Face_Recognize/assets/75771867/c14e86c0-7609-4934-b466-51f6bf010243)
 
 
 
