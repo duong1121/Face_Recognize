@@ -16,7 +16,8 @@ Replace the classifier layers to fit the requirements.
 
 # Results 
 
-![Watch the video](https://duong1121-images.githubusercontent.com)
+<video src="https://user-images.githubusercontent.com/duong1121/video.mp4"></video>
+
 
 
 
