@@ -16,7 +16,8 @@ Replace the classifier layers to fit the requirements.
 
 # Results 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://drive.google.com/file/d/12yV0P5Ehh2N3eAY5SFE1c8Ah_AGPofUP/view?usp=drive_link))
+https://github.com/duong1121/Face_Recognize/assets/75771867/c83b4271-4ae6-43a8-a3d5-e451cc7f61f5
+
 
 
 
